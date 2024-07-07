@@ -1,5 +1,5 @@
 package base;
 
 public interface Fiscal {
-    abstract
+    double calculateTax(double income);
 }
